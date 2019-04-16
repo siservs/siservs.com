@@ -965,7 +965,7 @@ header.site-header {
 	background-attachment:fixed;
 	background-size:cover;
 	margin: 0;
-    padding:250px 0 250px 0;
+    padding:110px 0 150px 0;
     display: block;
     clear: both;
     position: relative;
@@ -2444,7 +2444,7 @@ blog (section)
 .inner-main-banner .caption  {
 	float:left;
 	width:100%;
-	padding:250px 0;
+	padding:100px 0;
 }
 
 .inner-main-banner h1 {
@@ -3311,7 +3311,7 @@ Contact us page
 .contact-section {
 	float:left;
 	width:100%;
-	padding:90px 0;
+	padding:10px 0;
 	position:relative;
 }
 
